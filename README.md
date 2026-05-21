@@ -1,2 +1,5 @@
 # supermarket-retail-analysis-using-sql
-This  file has 5 tables
+
+a kenyan retail shop would to understand the sales performance,customer behaviour  and product revenue using transactional data
+
+## data problem
