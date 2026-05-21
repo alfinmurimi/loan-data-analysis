@@ -5,7 +5,7 @@ a kenyan retail shop would to understand the sales performance,customer behaviou
 ## data problem
 
 our data contained 5 tables
-customers 200 rows
-orders
-employees
-products 30 entries
+1. customers 200 rows
+2. orders
+3. employees
+4. products 30 entries
