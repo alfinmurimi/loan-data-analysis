@@ -1,11 +1,4 @@
-# supermarket-retail-analysis-using-sql
+## LOAN DATA ANALYSIS
 
-a kenyan retail shop would to understand the sales performance,customer behaviour  and product revenue using transactional data
-
-## data problem
-
-our data contained 5 tables
-1. customers 200 rows
-2. orders
-3. employees
-4. products 30 entries
+This is a python project analyzing a loan application dataset using panda ,numpy and matplotlib.
+it includes data cleaning, exploratory data analysis, data visualization and business insights for decision  making
