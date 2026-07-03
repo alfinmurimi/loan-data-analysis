@@ -22,7 +22,7 @@ The dataset contains historical loan application records, including applicant in
 
 ## Key Findings
 - Most applicants requested small to medium-sized loans.
-- ![Loan Amount Distribution] (loan%20dist%20amount.png)
+- ![Loan Amount Distribution](./images/loan%20dist%20amount.png)
 - Credit history strongly influenced loan approval.
 - Loan applications varied across different property areas.
 - A few applicants had exceptionally high incomes.
