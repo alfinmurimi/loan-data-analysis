@@ -22,7 +22,7 @@ The dataset contains historical loan application records, including applicant in
 
 ## Key Findings
 - Most applicants requested small to medium-sized loans.
-- https://github.com/alfinmurimi/loan-data-analysis/blob/main/images/loan%20dist%20amount.png
+- ![loan dist amount](loan dist amount.png)
 - Credit history strongly influenced loan approval.
 - Loan applications varied across different property areas.
 - A few applicants had exceptionally high incomes.
